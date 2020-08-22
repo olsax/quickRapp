@@ -1,5 +1,5 @@
 # Aplikacja Shiny
-obliczającą ryzyko wystąpienia guza złośliwego jajników implementująca model IOTA LR2.
+obliczająca ryzyko wystąpienia guza złośliwego jajników implementująca model IOTA LR2.
 
 
 Model IOTA LR2 jest regresją logistyczną o następującej formule
